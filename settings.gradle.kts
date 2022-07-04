@@ -1,0 +1,3 @@
+
+rootProject.name = "pdb-parser"
+
